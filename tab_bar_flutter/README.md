@@ -1,6 +1,8 @@
 # tab_bar_flutter
 
 A new Flutter project.
+![tab bar](https://user-images.githubusercontent.com/60292040/74039277-216f1f80-49f4-11ea-8b44-4168df42302e.jpg)
+
 
 ## Getting Started
 
